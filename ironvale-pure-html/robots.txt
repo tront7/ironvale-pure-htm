@@ -1,0 +1,7 @@
+# robots.txt for Ironvale Plumbing Co.
+# Replace the domain below with your deployed site URL.
+User-agent: *
+Allow: /
+Disallow: /data/
+
+Sitemap: https://ironvale-plumbing.netlify.app/sitemap.xml

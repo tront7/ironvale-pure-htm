@@ -1,0 +1,14 @@
+{
+  "currency": "R",
+  "callout": { "weekday": 590, "weekend": 890 },
+  "jobs": [
+    { "label": "Repipe / whole-home plumbing", "keywords": ["repipe", "whole-home", "whole home"], "from": null },
+    { "label": "Maintenance contract", "keywords": ["maintenance", "contract"], "from": null },
+    { "label": "Leak & pipe repair", "keywords": ["leak", "pipe", "drip"], "from": 1450 },
+    { "label": "Water heater repair or install (diagnostic)", "keywords": ["water heater", "geyser", "hot water"], "from": 950 },
+    { "label": "Drain clearing", "keywords": ["drain", "clog", "blocked", "sewer"], "from": 1200 },
+    { "label": "Fixture installation", "keywords": ["toilet", "fixture", "faucet", "tap", "shower", "disposal"], "from": 1100 },
+    { "label": "Grease trap service", "keywords": ["grease"], "from": 1800 },
+    { "label": "Backflow testing", "keywords": ["backflow"], "from": 850 }
+  ]
+}

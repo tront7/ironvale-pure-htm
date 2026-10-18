@@ -1,0 +1,10 @@
+{
+  "reviews": [
+    { "name": "Thandi M.", "job": "Slab leak repair", "rating": 5, "text": "They found a leak under the floor in under an hour and quoted the price before touching anything. No surprises on the invoice." },
+    { "name": "Greg P.", "job": "Water heater replacement", "rating": 5, "text": "Our geyser died on a Sunday night. A technician was at the door in under an hour and we had hot water again by the next morning." },
+    { "name": "Lerato N.", "job": "Drain clearing", "rating": 5, "text": "Camera inspection showed exactly where the blockage was. The crew cleaned up properly and even swept the floor." },
+    { "name": "Johan v. R.", "job": "Grease trap service", "rating": 4, "text": "Reliable, on schedule and the compliance report was ready the same day. Our restaurant inspection went smoothly." },
+    { "name": "Aisha K.", "job": "Bathroom fixture installation", "rating": 5, "text": "Three fixtures fitted in one visit. Friendly, tidy and exactly the price they had quoted." },
+    { "name": "Daniel S.", "job": "Property management contract", "rating": 5, "text": "Priority scheduling across our rental units has cut our tenant complaints noticeably. One number to call, every time." }
+  ]
+}
